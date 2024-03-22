@@ -14,14 +14,29 @@ Reconhecimento Facial e transformação de imagens em Dados
 # Como configurar
 
 **1.** Abrir o [Vision Studio](https://portal.vision.cognitive.azure.com/gallery/featured) (https://portal.vision.cognitive.azure.com/gallery/featured) e selecionar [Image analysis](https://portal.vision.cognitive.azure.com/gallery/imageanalysis):
+<div align="center">
+<img src="https://github.com/o0andrefelipe0o/DIO-Microsoft-Azure-AI-Fundamentals/assets/128185986/a93c2fe7-f7d7-4bf0-b9cd-412e35afa75c" width="700px" />
+</div>
 
 **2.** Selecione a opção [Add captions to imagens](https://portal.vision.cognitive.azure.com/demo/image-captioning):
+<div align="center">
+<img src="https://github.com/o0andrefelipe0o/DIO-Microsoft-Azure-AI-Fundamentals/assets/128185986/05028af0-b2b3-4dff-b186-7e1c863910a9" width="700px" />
+</div>
 
 **3.** Arraste e solte um arquivo na caixinha de upload ou selecione dentro da mesma caixinha a opção *"Browse for a file"* para procurar um arquivo ou *"Take a photo"* para tirar uma foto:
+<div align="center">
+<img src="https://github.com/o0andrefelipe0o/DIO-Microsoft-Azure-AI-Fundamentals/assets/128185986/67eb5821-b7d2-46b3-9295-2d408de55722" width="700px" />
+</div>
 
 **4.** Mantenha a opção *"Detected attributes"* (Atributos detectados) selecionada para visualizar a descrição de imagem que a ferramenta criou:
+<div align="center">
+<img src="https://github.com/o0andrefelipe0o/DIO-Microsoft-Azure-AI-Fundamentals/assets/128185986/51cc91a7-8c74-4cb6-897f-96a05a0e4898" width="700px" />
+</div>
 
 **5.** Selecione *"JSON"* para visualizar o código .json gerado:
+<div align="center">
+<img src="https://github.com/o0andrefelipe0o/DIO-Microsoft-Azure-AI-Fundamentals/assets/128185986/fb269386-34b1-4a13-aab1-375e58b0792e" width="700px" />
+</div>
 
 ```
 {
